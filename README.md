@@ -4,7 +4,7 @@
 
 <br><br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Muhamad+Husein+Alfah+Reza;⚛️+Frontend+Engineer;☕+Coffee+Lover;🚀+Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Muhamad+Husein+Alfah+Reza;Frontend+Engineer;Coffee+Lover;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </p>
 
 ### Software Engineering Student • Frontend Engineer • Indonesia 🇮🇩
