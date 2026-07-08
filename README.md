@@ -75,11 +75,11 @@ School counseling management dashboard.
 <div align="center">
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/fe/6f/a8/fe6fa8e1bc06446fbc16591e0be95f7e.jpg" width="100%">
+  <img src="https://i.pinimg.com/736x/fe/6f/a8/fe6fa8e1bc06446fbc16591e0be95f7e.jpg" width="50%">
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b1/70/a4/b170a4c25b928ff9ebac7e652edb4bff.jpg" width="100%>
+  <img src="https://i.pinimg.com/736x/b1/70/a4/b170a4c25b928ff9ebac7e652edb4bff.jpg" width="50%>
 
 </div>
 
