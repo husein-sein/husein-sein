@@ -72,16 +72,21 @@ School counseling management dashboard.
 > ☕ **Coffee keeps me awake.**  
 > 😺 **Cats keep me motivated.**
 
-<div align="center">
+<table align="center">
+<tr>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/fe/6f/a8/fe6fa8e1bc06446fbc16591e0be95f7e.jpg" width="20%">
-</p>
+<td align="center">
+<img src="https://i.pinimg.com/736x/fe/6f/a8/fe6fa8e1bc06446fbc16591e0be95f7e.jpg" width="140"/>
+</td>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/b1/70/a4/b170a4c25b928ff9ebac7e652edb4bff.jpg" width="20%>
+<td width="25"></td>
 
-</div>
+<td align="center">
+<img src="https://i.pinimg.com/736x/b1/70/a4/b170a4c25b928ff9ebac7e652edb4bff.jpg" width="140"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
