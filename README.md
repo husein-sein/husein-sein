@@ -41,7 +41,12 @@
 ### 🗄️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,hono,mysql,postgres,supabase"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,supabase"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hono_Framework-E36002?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
 </p>
 
 ### 🧰 Development Tools
