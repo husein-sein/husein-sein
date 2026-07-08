@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.gif" alt="Banner" width="100%"/>
+<img src="./assets/banner.gif" width="100%" alt="Banner"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Muhamad+Husein+Alfah+Reza;Frontend+Engineer;Building+Modern+Web+Experiences"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Muhamad+Husein+Alfah+Reza;Frontend+Engineer;Coffee+Lover+☕;Building+Modern+Web+Experiences"/>
 
 ### Software Engineering Student • Frontend Engineer • Indonesia 🇮🇩
 
@@ -14,16 +14,16 @@
 
 # 👋 About Me
 
-- 🚀 Frontend Engineer passionate about building modern and responsive web applications.
-- ⚛️ Working mainly with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
-- 🎨 I enjoy transforming UI/UX designs into clean and interactive interfaces.
-- ☕ Coffee is my favorite coding companion.
-- 🌱 Currently learning **UI Animation**, **Accessibility**, and **Web Performance**.
-- 📫 Reach me at **seeinn30@gmail.com**
+- 🚀 Frontend Engineer passionate about crafting modern and responsive web interfaces.
+- ⚛️ I enjoy building with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
+- 🎨 Turning Figma designs into clean, pixel-perfect websites is my favorite thing to do.
+- ☕ Coffee is always on my desk while coding.
+- 🌱 Currently learning UI Animation, Accessibility, and Performance Optimization.
+- 📫 **seeinn30@gmail.com**
 
 ---
 
-# 🛠️ Tech Stack & Skills
+# 🛠 Tech Stack & Skills
 
 ### 💻 Programming Languages
 
@@ -43,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,hono,mysql,postgres,supabase"/>
 </p>
 
-### 🧰 Tools
+### 🧰 Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel"/>
@@ -57,29 +57,46 @@
 Modern e-commerce platform built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
 ### 🎓 PPDB SMK Taruna Bhakti
-Student admission website with a modern, responsive interface.
+Student admission website with a clean and responsive interface.
 
 ### 📱 Laporan Masyarakat
-Community reporting application built with React Native and Next.js.
+Community reporting application built using React Native and Next.js.
 
 ### 📚 Bimbingan Konseling
 School counseling management dashboard.
 
 ---
 
-# ☕ A Little About Me
+# ☕ Coffee & Cats
 
-- ☕ Coffee makes every coding session better.
-- 🎧 Usually coding while listening to Lo-fi music.
-- 💡 Love creating clean UI and smooth user experiences.
-- 🌙 Most ideas come during late-night coding.
-- 🚀 Always excited to learn new technologies.
+> ☕ **Coffee keeps me awake.**  
+> 😺 **Cats keep me motivated.**
+
+<div align="center">
+
+<img src="./assets/cat-hi.jpg" width="180"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="./assets/cat-pray.jpg" width="180"/>
+
+</div>
+
+---
+
+# 🎧 Outside Coding
+
+- ☕ Drinking Coffee
+- 🎧 Listening to Lo-fi Music
+- 🎮 Playing Games
+- 🌙 Late Night Coding
+- 📖 Learning New Technologies
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://github.com/husein-sein">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -103,6 +120,6 @@ School counseling management dashboard.
 
 <div align="center">
 
-### ☕ *"Crafting modern web experiences, one cup of coffee at a time."*
+### ☕ *"Building beautiful interfaces, one cup of coffee at a time."*
 
 </div>
