@@ -1,308 +1,117 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#3B82F6;">Husein</span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Engineer • React Developer • Next.js Enthusiast 🇮🇩
-</h3>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
 
-<p align="center">
-Building beautiful, responsive, and modern web experiences.
-</p>
+<br/>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Husein;Frontend+Engineer;Tukang+Debugging+Malam+Hari" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Frontend+Engineer;React+%26+Next.js+Developer;TypeScript+Enthusiast;UI%2FUX+Lover;Always+Learning+New+Things;Welcome+To+My+Github!" />
-
-</p>
+</div>
 
 ---
 
-# 🌸 About Me
+<div align="center">
 
-Hi! I'm **Husein**, a passionate **Frontend Engineer** from **Indonesia 🇮🇩**.
+### 👋 About Me
 
-I'm currently studying **Software Engineering** while continuously improving my skills by building real-world web applications.
+Frontend Engineer from Indonesia 🇮🇩
 
-I enjoy transforming ideas into beautiful digital experiences through clean code, reusable components, and modern technologies.
+Suka bikin UI yang clean, responsive, dan kadang overthinking karena ada pixel yang geser 1px.
 
-Frontend development isn't just coding for me—it's about creating experiences that users genuinely enjoy.
+Kalau lagi ngoding malam hari, biasanya bug ikut begadang juga.
 
-My primary focus is building responsive, interactive, scalable, and user-friendly applications using the React ecosystem.
-
-Besides frontend, I'm also learning backend technologies to understand how modern web applications work from end to end.
-
-Currently exploring:
-
-- ⚛ React Ecosystem
-- ▲ Next.js
-- 📘 TypeScript
-- 🎨 Tailwind CSS
-- 🧩 Component Architecture
-- 🚀 Performance Optimization
-- 🌐 REST API Integration
-- 🐹 Golang
+</div>
 
 ---
 
-# 🚀 What I Love Building
+<div align="center">
 
-✨ Modern Landing Pages
+### ⚡ Tech Stack
 
-🛒 E-Commerce Platform
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,git" />
 
-📊 Admin Dashboard
-
-🏫 School Information System
-
-📢 Community Reporting System
-
-🎓 Counseling Management System
-
-👤 Authentication System
-
-📱 Responsive Web Applications
-
-⚡ REST API Integration
-
-📦 CRUD Applications
-
-🎨 UI/UX Implementation
-
-🌐 Company Profile Website
+</div>
 
 ---
 
-# 💻 Tech Stack
+<div align="center">
 
-## 🎨 Frontend
+### 📊 GitHub Stats
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite"/>
-
-</p>
-
----
-
-## ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,laravel"/>
-
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma"/>
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,npm"/>
-
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🛒 Retail App
-
-A modern E-Commerce platform built with **Next.js** and **Tailwind CSS**.
-
-### Features
-
-- Authentication
-- Product Catalog
-- Shopping Cart
-- Checkout
-- Responsive Design
-- REST API Integration
-
----
-
-## 🏫 PPDB SMK Taruna Bhakti
-
-A modern student admission system.
-
-### Features
-
-- Authentication
-- Dashboard
-- Payment Management
-- Student Management
-- CRUD System
-- Reporting
-
----
-
-## 📢 Laporan Masyarakat
-
-Community reporting platform.
-
-### Built With
-
-- React Native
-- Next.js
-- Node.js
-- Socket.IO
-- MySQL
-
----
-
-## 🎓 Bimbingan Konseling
-
-School counseling management application.
-
-### Features
-
-- Dashboard
-- Student Management
-- Counseling History
-- Authentication
-- Laravel API
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
+<table>
+<tr>
+<td>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=husein-sein&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=husein-sein&theme=tokyonight&hide_border=true"/>
+</td>
+<td>
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husein-sein&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husein-sein&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=husein-sein&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophy
+<div align="center">
 
-<p align="center">
+### 🧠 Developer Mood
 
-<img src="https://github-profile-trophy.vercel.app/?username=husein-sein&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Next.js
-- Go Backend
-- Clean Architecture
-- PostgreSQL
-- Docker
-- Microservices
-- System Design
-
----
-
-# 🎯 Goals 2026
-
-- 🚀 Become a Professional Frontend Engineer
-- 🌍 Build impactful web applications
-- 📚 Learn advanced backend development
-- 💼 Land an internship as a Frontend Developer
-- ⭐ Contribute to Open Source
-- 📱 Build more real-world projects
-- 🎨 Improve UI/UX Design Skills
-
----
-
-# 💡 Developer Mindset
-
-```javascript
+```js
 const husein = {
-    role: "Frontend Engineer",
-    code: ["JavaScript", "TypeScript"],
-    framework: ["React", "Next.js"],
-    styling: ["Tailwind CSS"],
-    backendKnowledge: ["Go", "Express", "Laravel"],
-    database: ["PostgreSQL", "MySQL", "Supabase"],
-    challenge: "Building beautiful user experiences ✨",
+  role: "Frontend Engineer",
+  currentStatus: "Trying to center a div without crying",
+  bugCount: "Yes",
+  sleepSchedule: "console.log('later')",
+  favoriteCommand: "npm run dev",
+  life: "works on localhost"
 };
 ```
 
 ---
 
-# 🌸 Fun Facts
+<div align="center">
 
-🌸 I love building beautiful user interfaces.
+### 🐱 Daily Coding Assistants
 
-☕ Coffee makes coding sessions even better.
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/cat-keyboard.gif" width="180"/>
+<img src="https://media.tenor.com/W5FYXQ4P7JIAAAAC/thumbs-up-cat.gif" width="180"/>
 
-🎧 Music is always playing while I'm coding.
-
-🌙 Most of my ideas come late at night.
-
-💻 I enjoy turning Figma designs into responsive websites.
-
-🚀 I love learning new technologies.
-
-⭐ Clean code > Clever code.
-
-🌸 Always improving, one commit at a time.
+</div>
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
+### 🌐 Connect With Me
 
 <a href="https://github.com/husein-sein">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/m-husein-alfah-reza">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/m-husein-alfah-reza">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:seeinn30@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💬 Favorite Quote
+<div align="center">
 
-> **"Great user experiences don't happen by accident—they're crafted with passion, attention to detail, and clean code."**
+> "99 little bugs in the code,
+> 99 little bugs.
+> Fix one bug, compile again,
+> 127 little bugs in the code."
 
----
-
-<h3 align="center">
-
-✨ Thank you for visiting my profile ✨
-
-If you like my projects, don't forget to ⭐ them!
-
-</h3>
+</div>
