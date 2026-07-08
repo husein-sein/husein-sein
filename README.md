@@ -3,8 +3,9 @@
 <img src="./assets/banner.gif" width="100%" alt="Banner"/>
 
 <br><br>
-
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Muhamad+Husein+Alfah+Reza;Frontend+Engineer;Coffee+Lover+☕;Building+Modern+Web+Experiences"/>
+</p>
 
 ### Software Engineering Student • Frontend Engineer • Indonesia 🇮🇩
 
