@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Banner"/>
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Husein;Frontend+Engineer;Building+Modern+Web+Interfaces" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Muhamad+Husein+Alfah+Reza;Frontend+Engineer;Building+Modern+Web+Experiences" />
 
-<br/>
-
-Software Engineering Student • Frontend Engineer • Indonesia 🇮🇩
+### Software Engineering Student • Indonesia 🇮🇩
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
 ```ts
 const husein = {
@@ -22,7 +20,7 @@ const husein = {
 
   location: "Depok, Indonesia",
 
-  code: [
+  stack: [
     "React",
     "Next.js",
     "TypeScript",
@@ -30,18 +28,18 @@ const husein = {
   ],
 
   currentlyLearning: [
-    "UI Animation",
+    "Framer Motion",
     "Accessibility",
-    "Performance Optimization"
+    "Performance"
   ],
 
-  funFact:
-    "Turning Figma into pixel-perfect websites ✨"
-};
+  motto:
+    "Turning ideas into beautiful web interfaces ✨"
+}
 ```
 
-I enjoy building clean, responsive, and modern web interfaces.
-My goal is to create websites that are fast, accessible, and enjoyable to use.
+I love building responsive and modern websites.
+My focus is creating clean UI, smooth user experiences, and reusable components.
 
 ---
 
@@ -49,7 +47,7 @@ My goal is to create websites that are fast, accessible, and enjoyable to use.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,vscode"/>
 
 </div>
 
@@ -58,95 +56,120 @@ My goal is to create websites that are fast, accessible, and enjoyable to use.
 # 🌟 Featured Projects
 
 <table>
+
 <tr>
+
 <td width="50%">
 
-### 🛒 Retail-App
+## 🛒 Retail App
 
-Modern ecommerce platform built with **Next.js** and **Tailwind CSS** featuring responsive UI and shopping experience.
+Modern Ecommerce Platform
+
+**Stack**
+
+- Next.js
+- Tailwind CSS
+- TypeScript
 
 </td>
 
 <td width="50%">
 
-### 🎓 PPDB SMK Taruna Bhakti
+## 🎓 PPDB SMK Taruna Bhakti
 
-Online student admission platform with modern interface built using **Next.js**.
+Student Admission Website
+
+**Stack**
+
+- Next.js
+- Hono
+- PostgreSQL
 
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 
-### 📱 Laporan Masyarakat
+## 📱 Laporan Masyarakat
 
-Community reporting application built with **React Native** and **Next.js**.
+Community Reporting System
+
+**Stack**
+
+- React Native
+- Next.js
+- Node.js
 
 </td>
 
 <td>
 
-### 📚 Bimbingan Konseling
+## 📚 Bimbingan Konseling
 
-School counseling management dashboard with modern web interface.
+School Management Dashboard
+
+**Stack**
+
+- Laravel
+- Next.js
+- MySQL
 
 </td>
+
 </tr>
 
 </table>
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=husein-sein&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husein-sein&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 💻 Frontend Mood
-
-```ts
-const frontendEngineer = {
-  morning: "☕ Coffee",
-  afternoon: "🎨 Build UI",
-  evening: "📱 Responsive Testing",
-  night: "🐛 Fix CSS",
-  midnight: "It works... don't touch it."
-};
-```
-
----
-
-# ⚙ Current Setup
+# 💻 Current Setup
 
 ```yaml
 Editor: VS Code
+
 Framework: Next.js
+
 Language: TypeScript
+
 Styling: Tailwind CSS
+
 Design: Figma
-Version Control: Git
+
 Deployment: Vercel
 ```
 
 ---
 
-# 🐱 Daily Motivation
+# 😆 Frontend Mood
+
+```ts
+const frontend = {
+    figma: "Looks amazing 🎨",
+
+    browser: "Looks different 😭",
+
+    css: "One line changed, everything moved.",
+
+    solution: "display: flex 🤞",
+
+    status: "npm run dev"
+}
+```
+
+---
+
+# 🐱 Debugging Assistant
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="170"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="170"/>
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180"/>
 
 </div>
 
@@ -174,6 +197,6 @@ Deployment: Vercel
 
 <div align="center">
 
-> ### "Crafting modern web experiences, one component at a time."
+> **"Crafting modern web experiences, one component at a time."**
 
 </div>
