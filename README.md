@@ -1,106 +1,115 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-<br/>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Husein;Frontend+Engineer;Tukang+Debugging+Malam+Hari" />
-
-</div>
-
----
-
-<div align="center">
-
-### 👋 About Me
-
-Frontend Engineer from Indonesia 🇮🇩
-
-Suka bikin UI yang clean, responsive, dan kadang overthinking karena ada pixel yang geser 1px.
-
-Kalau lagi ngoding malam hari, biasanya bug ikut begadang juga.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Husein;Frontend+Engineer;Building+Beautiful+Web+Experiences" />
 
 </div>
 
 ---
 
+# 👨‍💻 About Me
+
+```ts
+const husein = {
+  location: "Indonesia 🇮🇩",
+  role: "Frontend Engineer",
+
+  currentlyLearning: [
+    "Next.js",
+    "TypeScript",
+    "UI/UX",
+    "Backend Development"
+  ],
+
+  funFact:
+    "I spend 2 hours fixing a bug that disappeared after restarting VS Code ☕"
+};
+```
+
+I enjoy building clean, responsive, and modern web applications.
+Always trying to write maintainable code and create user experiences that feel smooth.
+
+---
+
+# ⚡ Tech Stack
+
 <div align="center">
 
-### ⚡ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,git" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,git,vscode,figma&perline=9" />
 
 </div>
 
 ---
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
-### 📊 GitHub Stats
-
-<table>
-<tr>
-<td>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=husein-sein&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-<td>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=husein-sein&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husein-sein&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</td>
-</tr>
-</table>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=husein-sein&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 💻 Current Mood
 
-### 🧠 Developer Mood
+```javascript
+while (project.isNotFinished()) {
+    coffee++;
+    npm.run("dev");
 
-</div>
-
-```js
-const husein = {
-  role: "Frontend Engineer",
-  currentStatus: "Trying to center a div without crying",
-  bugCount: "Yes",
-  sleepSchedule: "console.log('later')",
-  favoriteCommand: "npm run dev",
-  life: "works on localhost"
-};
+    if (bug.exists()) {
+        console.log("Why...");
+    } else {
+        console.log("Don't touch anything.");
+        break;
+    }
+}
 ```
 
 ---
 
+# 🐱 Daily Motivation
+
 <div align="center">
 
-### 🐱 Daily Coding Assistants
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/cat-keyboard.gif" width="180"/>
-<img src="https://media.tenor.com/W5FYXQ4P7JIAAAAC/thumbs-up-cat.gif" width="180"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180"/>
 
 </div>
 
 ---
 
+# 🌐 Connect With Me
+
 <div align="center">
 
-### 🌐 Connect With Me
-
 <a href="https://github.com/husein-sein">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/m-husein-alfah-reza">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:seeinn30@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </div>
@@ -109,9 +118,8 @@ const husein = {
 
 <div align="center">
 
-> "99 little bugs in the code,
-> 99 little bugs.
-> Fix one bug, compile again,
-> 127 little bugs in the code."
+> *"Good UI is invisible. Great code is understandable."*
+
+<img src="https://komarev.com/ghpvc/?username=husein-sein&style=flat-square&color=0ea5e9"/>
 
 </div>
